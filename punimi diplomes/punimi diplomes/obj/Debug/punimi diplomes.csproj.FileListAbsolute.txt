@@ -1,0 +1,10 @@
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\obj\Debug\punimi diplomes.csproj.GenerateResource.Cache
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\bin\Debug\programi porosites.exe
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\bin\Debug\programi porosites.pdb
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\obj\Debug\programi porosites.exe
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\obj\Debug\programi porosites.pdb
+C:\Users\ac\Desktop\punimi diplomes\punimi diplomes\obj\Debug\WindowsFormsApplication1.pass.resources
